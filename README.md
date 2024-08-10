@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @KAJA-MOIDEEN
-- 👀 I’m interested in development 
-- 🌱 I’m currently puresuving full stack developer in WhyTap 
-- 📫 How to reach me @kajamoideen3100@gmail.com
+- 👀 I’m Interested in Development 
+- 🌱 I’m Currently Pursuing  MERN Stack Developer in WhyTap 
+- 📫 How to Reach Me @kajamoideen3100@gmail.com
