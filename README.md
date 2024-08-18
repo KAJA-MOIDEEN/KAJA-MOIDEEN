@@ -31,7 +31,7 @@
 - [Spotify-API](https://github.com/KAJA-MOIDEEN/Spotify-API) - Brief description of project 3.
 
 ## 📫 How to Reach Me
-<<<<<<< HEAD
+
 <div align="center"> 
   <a href="https://www.linkedin.com/in/kaja-moideen/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -43,12 +43,6 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
-=======
-- **Email:** [kajamoideen3100@gmail.com](mailto:your.email@example.com)
-- **LinkedIn:** [kaja-moideen](https://www.linkedin.com/in/kaja-moideen/)
-- **Instagram:** [kaja_moideen](https://www.instagram.com/kaja._.moideen?igsh=MTU5bTMwc3NhMTE1Zg==)
-
->>>>>>> 75288b809f7f151908557569b090418ff1019ac6
 
 ## ⚡ Fun Fact
 I enjoy diving deep into new technologies and constantly improving my development skills. When I'm not coding, I'm probably reading about the latest trends in web development or working on side projects.
