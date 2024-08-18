@@ -21,7 +21,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - **Languages:** Java, JavaScript
 - **Frontend:** HTML, CSS, React.js
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+- **Database:** MongoDB- **Languages:** Java, JavaScript, Python
+
 - **Other:** Git, GitHub, Responsive Design
 
 ## 💼 Past Projects
@@ -30,9 +31,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - [Spotify-API](https://github.com/KAJA-MOIDEEN/Spotify-API) - Brief description of project 3.
 
 ## 📫 How to Reach Me
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](link-to-linkedin)
-- **Twitter:** [@yourhandle](link-to-twitter)
+- **Email:** [kajamoideen3100@gmail.com](mailto:your.email@example.com)
+- **LinkedIn:** [kaja-moideen](https://www.linkedin.com/in/kaja-moideen/)
+- **Instagram:** [kaja_moideen](https://www.instagram.com/kaja._.moideen?igsh=MTU5bTMwc3NhMTE1Zg==)
+
 
 ## ⚡ Fun Fact
 I enjoy diving deep into new technologies and constantly improving my development skills. When I'm not coding, I'm probably reading about the latest trends in web development or working on side projects.
