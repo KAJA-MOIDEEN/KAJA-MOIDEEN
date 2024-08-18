@@ -1,6 +1,6 @@
 # Hi there, I'm kaja 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in Full Stack Development. I love building robust and dynamic web applications using the latest technologies.
+**I'm a passionate developer with a keen interest in Full Stack Development. I love building robust and dynamic web applications using the latest technologies.**
 
 ## 🔭 Current Focus
 
@@ -30,9 +30,17 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - [Spotify-API](https://github.com/KAJA-MOIDEEN/Spotify-API) - Brief description of project 3.
 
 ## 📫 How to Reach Me
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](link-to-linkedin)
-- **Twitter:** [@yourhandle](link-to-twitter)
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/kaja-moideen/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:kajamoideen3100@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
+</div>
 
 ## ⚡ Fun Fact
 I enjoy diving deep into new technologies and constantly improving my development skills. When I'm not coding, I'm probably reading about the latest trends in web development or working on side projects.
