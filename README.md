@@ -1,7 +1,9 @@
 # Hi there, I'm kaja 👋
 
 **I'm a passionate developer with a keen interest in Full Stack Development. I love building robust and dynamic web applications using the latest technologies.**
-
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=KAJA-MOIDEEN&label=Profile%20views&color=0e75b6&style=flat" alt="KAJA-MOIDEEN" /> 
+</p>
 ## 🔭 Current Focus
 
 ### Persevering in Full Stack Development
