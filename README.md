@@ -24,7 +24,6 @@
 - **Frontend:** HTML, CSS, React.js
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB- **Languages:** Java, JavaScript, Python
-
 - **Other:** Git, GitHub, Responsive Design
 
 ## 💼 Past Projects
