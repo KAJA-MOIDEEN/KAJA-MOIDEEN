@@ -29,9 +29,16 @@
 - **Other:** Git, GitHub, Responsive Design
 
 ## 💼 Past Projects
-- [MultiVendor Ecommerce](https://ecommerce.whytap.tech/) - A Multi-Vendor E-Commerce Platform built with the MERN Stack (MongoDB, Express, React, Node.js). It allows multiple vendors to manage their products, while customers can browse and purchase. The platform features role-based access and a responsive design using Tailwind CSS.
-- [Project 2 Name](link-to-project) - Brief description of project 2.
-- [Spotify-API](https://github.com/KAJA-MOIDEEN/Spotify-API) - Brief description of project 3.
+- [Multi-Vendor Ecommerce](https://ecommerce.whytap.tech/) - A Multi-Vendor E-Commerce Platform built with the MERN Stack (MongoDB, Express, React, Node.js). It allows multiple vendors to manage their products, while customers can browse and purchase. The platform features role-based access and a responsive design using Tailwind CSS.
+- [CHAT-APP](https://github.com/KAJA-MOIDEEN/CHAT-APP) -  A real-time chat application built using React for the frontend, Node.js with Express.js for the backend, and Socket.IO for seamless bi-directional communication. It supports user authentication, dynamic message updates, and group or private chats, providing a responsive and interactive user experience.
+- [Spotify-Web-API](https://github.com/KAJA-MOIDEEN/Spotify-API) - A sleek and responsive music platform built using HTML, CSS, and JavaScript, integrated with the Spotify API. It enables users to search for tracks, browse playlists, and view song details, providing a seamless music discovery experience.
+
+
+
+
+
+
+
 
 ## 📫 How to Reach Me
 
