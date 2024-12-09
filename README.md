@@ -21,12 +21,11 @@
 - Database management with MongoDB
 
 ## 💼 Skills
-- **Languages:** Java, JavaScript
-- **Frontend:** HTML, CSS, React.js
+- **Frontend:** HTML, CSS, Tailwind CSS, React.js
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Languages:** Java, JavaScript, Python
-- **Other:** Git, GitHub, Responsive Design
+- **Other:** Git, GitHub, Responsive Design ,Figma 
 
 ## 💼 Past Projects
 - [Multi-Vendor Ecommerce](https://ecommerce.whytap.tech/) - A Multi-Vendor E-Commerce Platform built with the MERN Stack (MongoDB, Express, React, Node.js). It allows multiple vendors to manage their products, while customers can browse and purchase. The platform features role-based access and a responsive design using Tailwind CSS.
