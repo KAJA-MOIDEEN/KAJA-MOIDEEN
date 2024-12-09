@@ -29,7 +29,7 @@
 - **Other:** Git, GitHub, Responsive Design
 
 ## 💼 Past Projects
-- [Project 1 Name]() - Brief description of project 1.
+- [MultiVendor Ecommerce](https://ecommerce.whytap.tech/) - A Multi-Vendor E-Commerce Platform built with the MERN Stack (MongoDB, Express, React, Node.js). It allows multiple vendors to manage their products, while customers can browse and purchase. The platform features role-based access and a responsive design using Tailwind CSS.
 - [Project 2 Name](link-to-project) - Brief description of project 2.
 - [Spotify-API](https://github.com/KAJA-MOIDEEN/Spotify-API) - Brief description of project 3.
 
