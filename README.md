@@ -148,8 +148,8 @@ const kaja = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KAJA-MOIDEEN&show_icons=true&hide_border=true&bg_color=050816&title_color=6C63FF&icon_color=00F5FF&text_color=FFFFFF&ring_color=6C63FF" height="170" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAJA-MOIDEEN&layout=compact&hide_border=true&bg_color=050816&title_color=6C63FF&text_color=FFFFFF" height="170" alt="top languages"/>
+<img src="https://github-readme-stats-eta-three-27.vercel.app/api?username=KAJA-MOIDEEN&show_icons=true&hide_border=true&bg_color=050816&title_color=6C63FF&icon_color=00F5FF&text_color=FFFFFF&ring_color=6C63FF" height="170" alt="stats"/>
+<img src="https://github-readme-stats-eta-three-27.vercel.app/api/top-langs/?username=KAJA-MOIDEEN&layout=compact&hide_border=true&bg_color=050816&title_color=6C63FF&text_color=FFFFFF" height="170" alt="top languages"/>
 
 <img src="https://streak-stats.demolab.com?user=KAJA-MOIDEEN&hide_border=true&background=050816&ring=6C63FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=6C63FF&dates=8B92B8" alt="streak"/>
 
