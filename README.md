@@ -306,7 +306,7 @@ flowchart TB
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=KAJA-MOIDEEN&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" width="95%" alt="trophies"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KAJA-MOIDEEN&theme=tokyonight" height="180" alt="stats summary"/>
 
 ### 🐍 Contribution Snake
 
