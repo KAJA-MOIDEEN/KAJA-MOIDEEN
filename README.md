@@ -412,11 +412,23 @@ timeline
 
 <br/>
 
-[<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050816"/>](https://linkedin.com/in/kaja-moideen)
-[<img src="https://img.shields.io/badge/PORTFOLIO-6C63FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050816"/>](https://github.com/KAJA-MOIDEEN/kaja-moideen-portfolio)
-[<img src="https://img.shields.io/badge/GITHUB-00F5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=050816"/>](https://github.com/KAJA-MOIDEEN)
-[<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050816"/>](mailto:kajamoideen3100@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/kaja-moideen" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050816" />
+  </a>
 
+  <a href="https://github.com/KAJA-MOIDEEN/kaja-moideen-portfolio" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/PORTFOLIO-6C63FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050816" />
+  </a>
+
+  <a href="https://github.com/KAJA-MOIDEEN" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GITHUB-00F5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=050816" />
+  </a>
+
+  <a href="mailto:kajamoideen3100@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050816" />
+  </a>
+</p>
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=2200&color=6C63FF&center=true&vCenter=true&width=520&lines=%E2%9C%A6+Code.+Ship.+Learn.+Repeat.+%E2%9C%A6;%E2%9C%A6+Building+the+intelligent+enterprise.+%E2%9C%A6)](https://git.io/typing-svg)
