@@ -53,7 +53,8 @@
 </tr>
 </table>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KAJA-MOIDEEN&theme=tokyonight" width="95%" alt="profile summary"/>
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KAJA-MOIDEEN&theme=tokyonight" width="95%" alt="profile summary"/> -->
+<img src="https://github-profile-summary-cards-teal.vercel.app/api/cards/profile-details?username=KAJA-MOIDEEN&theme=tokyonight" width="95%" alt="profile summary"/>
 
 </div>
 
@@ -301,12 +302,15 @@ flowchart TB
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KAJA-MOIDEEN&theme=tokyonight&utcOffset=5.5" height="180" alt="productive time"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KAJA-MOIDEEN&theme=tokyonight" height="180" alt="repos per language"/>
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KAJA-MOIDEEN&theme=tokyonight&utcOffset=5.5" height="180" alt="productive time"/> -->
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KAJA-MOIDEEN&theme=tokyonight" height="180" alt="repos per language"/> -->
+<img src="https://github-profile-summary-cards-teal.vercel.app/api/cards/productive-time?username=KAJA-MOIDEEN&theme=tokyonight&utcOffset=5.5" height="180" alt="productive time"/>
+<img src="https://github-profile-summary-cards-teal.vercel.app/api/cards/repos-per-language?username=KAJA-MOIDEEN&theme=tokyonight" height="180" alt="repos per language"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KAJA-MOIDEEN&theme=tokyonight" height="180" alt="stats summary"/>
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KAJA-MOIDEEN&theme=tokyonight" height="180" alt="stats summary"/> -->
+<img src="https://github-profile-summary-cards-teal.vercel.app/api/cards/stats?username=KAJA-MOIDEEN&theme=tokyonight" height="180" alt="stats summary"/>
 
 ### 🐍 Contribution Snake
 
