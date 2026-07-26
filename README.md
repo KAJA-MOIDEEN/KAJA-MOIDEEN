@@ -428,6 +428,7 @@ timeline
   <a href="mailto:kajamoideen3100@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050816" />
   </a>
+  [<img src="https://img.shields.io/badge/RESUME-9B5CFF?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=050816"/>](https://github.com/KAJA-MOIDEEN/KAJA-MOIDEEN/blob/main/Kaja-Moideen-Resume.pdf)
 </p>
 <br/>
 
